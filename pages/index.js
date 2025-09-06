@@ -1,7 +1,7 @@
 function Home() {
 	return (
 		<h1>
-			Em construção...
+			Em construção....
 		</h1>
 	);
 }
